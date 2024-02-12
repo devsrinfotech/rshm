@@ -5338,8 +5338,8 @@ ul {
 .rs-team .team-item .team-desc {
   color: #fff;
   margin-bottom: 0;
-  padding-top: 12px;
-  margin-top: 15px;
+  /* padding-top: 12px; */
+  /* margin-top: 15px; */
 }
 .rs-team .team-item .team-social {
   position: relative;
