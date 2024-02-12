@@ -431,7 +431,7 @@
 -------------------------------------*/
 html,
 body {
-  font-size: 16px;
+  font-size: 19px;
   color: #505050;
   font-family: 'Roboto Condensed', sans-serif;
   vertical-align: baseline;
@@ -596,7 +596,7 @@ ul {
   background-position: center top;
 }
 .bg4 {
-  background-image: url(images/bg/cta-bg.jpg);
+  background-image: url(images/banner/banner7.jpg);
   background-size: cover;
   background-attachment: fixed;
   background-position: center top;
@@ -8586,7 +8586,7 @@ ul {
   border-radius: 50%;
   line-height: 44px;
   text-align: center;
-  color: #fff;
+  color: #ffc313;
   transition: all .3s ease 0s;
   background: rgba(255, 255, 255, 0.15);
 }
