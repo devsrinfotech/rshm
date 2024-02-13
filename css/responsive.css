@@ -472,7 +472,7 @@
         top: 0;
     }
     .home2 .menu-area{
-        background: #212121;
+        background: #391847;
     }
     .rs-about .about-img{
         margin-bottom: 40px;
@@ -948,6 +948,7 @@
     .shipping-area .coupon-fields,
     #rs-slider .slide-content .slider-title {
         margin-bottom: 20px;
+        margin-top: 50px;
     }
     .shipping-area .next-step{
         text-align: left;
@@ -986,7 +987,7 @@
     .rs-events .event-item .event-title,
     .rs-courses .cource-item .course-body .course-title,
     .rs-accordion-style1 .card .card-header .acdn-title{
-        font-size: 17px;
+        font-size: 27px;
     }
     .home5 .rs-header .searce-box,
     .home3 .rs-header .searce-box {

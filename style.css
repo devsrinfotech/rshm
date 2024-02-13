@@ -684,7 +684,7 @@ ul {
 .sec-title2 h2 {
   font-size: 30px;
   text-transform: uppercase;
-  color: #212121;
+  color: #222;
   font-weight: 700;
   line-height: 40px;
   margin: 0;
@@ -1183,7 +1183,7 @@ ul {
   color: #fff !important;
 }
 .rs-header .rs-menu-toggle:hover {
-  color: #ff3115 !important;
+  color: #ffc500  !important;
 }
 .rs-header .menu-area .rs-menu li.current_page_item > a,
 .rs-header-2 .menu-area .rs-menu li.current_page_item > a,
@@ -1285,7 +1285,7 @@ ul {
   position: relative;
 }
 .home2 .menu-area .main-menu {
-  background: #111111;
+  background: #391847;
   position: absolute;
   top: -30px;
   border-radius: 0;
@@ -3258,7 +3258,7 @@ ul {
   transform: translate(-50%, -50%) !important;
   -webkit-transform: translate(-50%, -50%) !important;
   -ms-transform: translate(-50%, -50%) !important;
-  color: #ff3115;
+  color: #ffc500;
   z-index: 11;
 }
 .event-item .event-img .image-link:hover,
@@ -3387,7 +3387,7 @@ ul {
   border-color: #e41f05;
 }
 .rs-courses-2 .cource-item:hover .course-body {
-  background-color: #212121;
+  background-color: #391847;
 }
 .rs-courses-2 .cource-item:hover .course-body .course-title a {
   color: #fff;
@@ -3398,7 +3398,7 @@ ul {
 .rs-courses-2 .cource-item:hover .cource-btn {
   background-color: #fff;
   border-color: #fff;
-  color: #ff3115;
+  color: #ffc500;
 }
 .rs-courses-2 .cource-item:hover .cource-btn:hover {
   background-color: #e41f05;
